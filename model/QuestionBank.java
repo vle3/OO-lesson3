@@ -12,7 +12,7 @@ public class QuestionBank
             "James Gosling"
         ));
         database.add(new Question(
-            "In what chity is UCO located ? ", 
+            "In what city is UCO located ? ", 
             "Edmond"
         ));
         var c1 = new ChoiceQuestion(
